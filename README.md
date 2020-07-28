@@ -35,3 +35,6 @@ In addition to its primary graphql interface, the Meeshkan bank does have some e
 ## Gotchyas
 
 The Meeshkan Bank has no persistence layer (what a bank!), so every time you restart it, the balances reset. If only real banks worked that way...
+
+## Bumps
+- bump
